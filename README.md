@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Premium animated hero: isometric API core + orbiting infrastructure + portrait -->
+<!-- Signature visual: keep the original portrait-first terminal composition. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-3d.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-3d.svg">
-  <img src="assets/hero-3d.svg" width="100%" alt="Ratnesh Makwana animated backend engineering command center">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+  <img src="assets/banner-dark.v9.svg" width="100%" alt="Ratnesh Makwana animated backend engineering profile banner">
 </picture>
 
 <br>

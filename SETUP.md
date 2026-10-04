@@ -13,7 +13,7 @@ This folder is designed to become the special GitHub profile repository:
 
 ## What's included
 
-- `assets/hero-3d.svg` — animated isometric backend command-center hero with the supplied portrait rendered as a dot-matrix visual.
+- `assets/banner-dark.v9.svg` / `assets/banner-light.v9.svg` — animated isometric backend command-center hero with the supplied portrait rendered as a dot-matrix visual.
 - `assets/architecture-3d.svg` — animated API/data/cache/cloud system map.
 - `assets/stack-3d.svg` — animated technology-stack signal panel.
 - `assets/radar-*.svg` — backend focus radars.
@@ -33,4 +33,4 @@ python scripts/radar.py --data assets/skills.json -o assets/radar
 python scripts/radar.py --data assets/langmix.json -o assets/radar-langs --values
 ```
 
-The premium hero is hand-authored SVG so its animation and layout stay deterministic. If you replace the portrait, update `assets/portrait.svg` and regenerate/embed it in `assets/hero-3d.svg` as needed.
+The premium hero is hand-authored SVG so its animation and layout stay deterministic. If you replace the portrait, update `assets/portrait.svg` and regenerate/embed it in `assets/banner-dark.v9.svg` / `assets/banner-light.v9.svg` as needed.
