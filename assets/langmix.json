@@ -1,0 +1,13 @@
+{
+  "title": "Backend Stack",
+  "_comment": "Practical stack mix used across the portfolio projects.",
+  "axes": [
+    { "label": "Python",     "value": 95 },
+    { "label": "JavaScript", "value": 62 },
+    { "label": "SQL",        "value": 84 },
+    { "label": "HTML/CSS",   "value": 55 },
+    { "label": "YAML",       "value": 68 },
+    { "label": "Bash",       "value": 52 },
+    { "label": "JSON",       "value": 78 }
+  ]
+}

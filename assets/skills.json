@@ -1,0 +1,13 @@
+{
+  "title": "Backend Skill Radar",
+  "_comment": "Self-rated 0-100. Adjust values whenever the stack grows.",
+  "axes": [
+    { "label": "Python",        "value": 92 },
+    { "label": "FastAPI",       "value": 90 },
+    { "label": "Flask",         "value": 82 },
+    { "label": "REST APIs",     "value": 92 },
+    { "label": "Databases",     "value": 86 },
+    { "label": "Docker",        "value": 80 },
+    { "label": "AWS / CI-CD",   "value": 74 }
+  ]
+}
