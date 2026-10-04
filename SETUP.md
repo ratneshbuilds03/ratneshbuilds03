@@ -6,14 +6,23 @@ This folder is designed to become the special GitHub profile repository:
 
 ## Publish it
 
-1. On GitHub, create a **public** repository named exactly `ratneshbuilds03` under the account `ratneshbuilds03`.
-2. Upload the contents of this folder (not the outer folder itself).
+1. Create a **public** repository named exactly `ratneshbuilds03` under `ratneshbuilds03`.
+2. Upload the **contents of this folder**, not the outer folder itself.
 3. Commit `README.md` to the `main` branch.
-4. Open `https://github.com/ratneshbuilds03` and the profile README should appear automatically.
+4. Open `https://github.com/ratneshbuilds03`. GitHub automatically shows a profile README when the repository name matches the username.
 
-## Optional refresh workflow
+## What's included
 
-The included GitHub Action regenerates the radar SVGs on pushes and on a daily schedule. The banner is already generated and committed, so no Python setup is required just to display the README.
+- `assets/hero-3d.svg` — animated isometric backend command-center hero with the supplied portrait rendered as a dot-matrix visual.
+- `assets/architecture-3d.svg` — animated API/data/cache/cloud system map.
+- `assets/stack-3d.svg` — animated technology-stack signal panel.
+- `assets/radar-*.svg` — backend focus radars.
+- `assets/card-stats-*.svg` — self-hosted GitHub snapshot cards.
+- `assets/portrait.svg` — reusable animated dot-matrix portrait.
+
+## Refresh workflow
+
+The included GitHub Action regenerates the radar SVGs and GitHub snapshot cards when the related JSON files change, on pushes to `main`, and on its scheduled run.
 
 ## Local regeneration
 
@@ -24,10 +33,4 @@ python scripts/radar.py --data assets/skills.json -o assets/radar
 python scripts/radar.py --data assets/langmix.json -o assets/radar-langs --values
 ```
 
-If you replace `assets/source/ratnesh.jpg`:
-
-```bash
-python scripts/banner/generate.py
-```
-
-The banner is an animated SVG. GitHub renders the SVG animation directly in the profile README.
+The premium hero is hand-authored SVG so its animation and layout stay deterministic. If you replace the portrait, update `assets/portrait.svg` and regenerate/embed it in `assets/hero-3d.svg` as needed.

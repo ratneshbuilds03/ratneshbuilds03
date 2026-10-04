@@ -1,43 +1,80 @@
 <div align="center">
 
-<!-- Animated terminal-style banner generated locally. -->
+<!-- Premium animated hero: isometric API core + orbiting infrastructure + portrait -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-  <img src="assets/banner-dark.v9.svg" width="100%" alt="Ratnesh animated backend developer profile banner">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-3d.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-3d.svg">
+  <img src="assets/hero-3d.svg" width="100%" alt="Ratnesh Makwana animated backend engineering command center">
 </picture>
 
 <br>
 
 <a href="https://github.com/ratneshbuilds03">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=900&lines=Ratnesh+Makwana+%7C+Backend+Developer;Python+%7C+FastAPI+%7C+Flask+%7C+REST+APIs;Building+scalable+backend+systems+and+shipping+real+projects" alt="animated typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=850&color=67E8F9&center=true&vCenter=true&width=950&lines=Ratnesh+Makwana+%7C+Backend+Developer;Python+%7C+FastAPI+%7C+Flask+%7C+REST+APIs;Databases+%7C+Docker+%7C+AWS+%7C+CI%2FCD;Building+reliable+systems+that+actually+ship" alt="Animated backend developer introduction">
 </a>
 
 <br><br>
 
-<a href="https://github.com/ratneshbuilds03"><img src="https://img.shields.io/badge/GitHub-ratneshbuilds03-0d1117?style=for-the-badge&logo=github&logoColor=AA9BEF" alt="GitHub"></a>
-&nbsp;
-<a href="mailto:ratneshmakwana51@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+<a href="https://github.com/ratneshbuilds03"><img src="https://img.shields.io/badge/GitHub-ratneshbuilds03-0b1020?style=for-the-badge&logo=github&logoColor=67e8f9" alt="GitHub"></a>
+<a href="mailto:ratneshmakwana51@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0b1020?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="Email"></a>
+<a href="https://github.com/ratneshbuilds03/ratneshbuilds03"><img src="https://img.shields.io/badge/Profile-README-0b1020?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Profile README"></a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ratnesbuilds03&style=flat&color=aa9bef&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=ratneshbuilds03&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Ratnesh
+## ⚡ Backend, but built like a system
 
-I'm a **backend-focused developer** who enjoys turning ideas into reliable APIs and practical software systems. My main stack is **Python, FastAPI and Flask**, with hands-on work across SQL/NoSQL databases, caching, authentication, Docker, AWS and CI/CD.
+I'm **Ratnesh Makwana**, a backend-focused developer working with **Python, FastAPI and Flask**. I like taking an idea, breaking it into services, wiring the data layer, adding authentication and tests, containerizing it, and getting it ready for deployment.
 
-- 🐍 Building backend services with **Python, FastAPI and Flask**
-- 🔐 Working with **REST APIs, JWT authentication, roles and permissions**
-- 🗄️ Using **MySQL, MongoDB and Redis** for application data and performance
-- 🐳 Containerizing services with **Docker** and working with CI/CD workflows
-- ☁️ Exploring **AWS and cloud-ready backend architecture**
-- 🤖 Building AI-enabled features and experimenting with **Google Gemini APIs**
-- 🚀 Focused on writing clean, testable code and shipping portfolio projects that solve real problems
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 What I build
+
+- REST APIs and service-oriented backends
+- Authentication, JWT, roles and permissions
+- SQL + NoSQL data workflows
+- Redis-backed caching and counters
+- File/content workflows and cloud storage
+- Dockerized applications and CI/CD pipelines
+- AI-enabled backend features with Gemini APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Engineering mindset
+
+```text
+Idea
+ ↓
+API design → validation → services
+ ↓
+data → cache → background workflows
+ ↓
+tests → containers → CI/CD
+ ↓
+reliable software that can ship
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛰️ System Architecture
+
+<img src="assets/architecture-3d.svg" width="100%" alt="Animated backend system architecture showing API, data, cache, Docker and AWS delivery">
+
+</div>
 
 ---
 
@@ -45,15 +82,17 @@ I'm a **backend-focused developer** who enjoys turning ideas into reliable APIs 
 
 ## 🧰 My Backend Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,javascript,mysql,mongodb,redis,docker,aws,git,github,postman&perline=6" alt="backend technology stack">
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,javascript,mysql,mongodb,redis,docker,aws,git,github,postman&perline=6" alt="Python FastAPI Flask MySQL MongoDB Redis Docker AWS Git GitHub Postman">
+
+<br><br>
+
+<img src="assets/stack-3d.svg" width="100%" alt="Animated technology stack map">
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📡 Signals
+## 📡 Engineering Signals
 
 <table>
 <tr>
@@ -62,7 +101,7 @@ I'm a **backend-focused developer** who enjoys turning ideas into reliable APIs 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="Ratnesh backend skill radar">
+  <img src="assets/radar-dark.svg" width="100%" alt="Ratnesh backend engineering focus radar">
 </picture>
 
 </td>
@@ -71,50 +110,78 @@ I'm a **backend-focused developer** who enjoys turning ideas into reliable APIs 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="Ratnesh backend stack radar">
+  <img src="assets/radar-langs-dark.svg" width="100%" alt="Ratnesh technology focus radar">
 </picture>
 
 </td>
 </tr>
 </table>
 
-</div>
+> **Focus areas, not fake percentages:** Python • APIs • databases • caching • containers • cloud • testing
 
 ---
 
-## 🚀 Featured Backend Projects
+# 🚀 Featured Backend Projects
 
-### 01 · MiniStream
-A backend-focused content streaming platform built around authentication, creator/viewer roles, content uploads, subscriptions, views, likes, search and notifications.
+### 01 · 🟦 MiniStream — Content Streaming Backend
 
-**Stack:** Python · FastAPI · MySQL · MongoDB · Redis · AWS S3 · Docker · CI/CD
+A production-style backend project with authentication, creator/viewer roles, content uploads, subscriptions, views, likes, search and notification workflows.
 
-### 02 · AI Resume Screener
-A backend project focused on processing resume information and using AI-assisted workflows to make resume analysis more useful for recruiters and candidates.
+**Stack:** `Python` `FastAPI` `MySQL` `MongoDB` `Redis` `AWS S3` `Docker` `CI/CD`
 
-**Focus:** Python · APIs · AI integration · backend processing
+---
 
-### 03 · Cartify / Cart System
-An e-commerce backend with product and cart workflows, order placement and database integration using SQL and MongoDB components.
+### 02 · 🤖 AI Resume Screener
 
-**Stack:** FastAPI · Python · MySQL · MongoDB · SQLAlchemy · Motor · Docker
+An AI-assisted backend workflow for processing resume information and making candidate/resume analysis more useful through API-driven processing.
 
-### 04 · Flask CMS
-A Flask-based content management project demonstrating server-side application design, routing, database-backed workflows and authentication patterns.
+**Focus:** `Python` `REST APIs` `AI Integration` `Backend Processing`
 
-**Stack:** Python · Flask · REST APIs · Database
+---
 
-### 05 · Notes API
-A backend API project focused on CRUD workflows, structured request/response validation and persistent application data.
+### 03 · 🛒 Cartify / Cart System
 
-**Stack:** Python · FastAPI · REST API
+An e-commerce backend covering products, cart workflows, order placement and database integration across SQL and MongoDB components.
 
-### 06 · Task Manager API
-A practical backend application for task management, API design, validation and persistence.
+**Stack:** `FastAPI` `Python` `MySQL` `MongoDB` `SQLAlchemy` `Motor` `Docker`
 
-**Stack:** Python · FastAPI · REST API
+[View repository →](https://github.com/ratneshbuilds03/fastapi-project-cart03)
 
-> More project source code and experiments are available on my [GitHub profile](https://github.com/ratneshbuilds03).
+---
+
+### 04 · 🌐 Flask CMS
+
+A Flask-based content management project demonstrating routing, database-backed workflows, authentication and REST-style backend design.
+
+**Stack:** `Python` `Flask` `REST APIs` `Database`
+
+[View repository →](https://github.com/ratneshbuilds03/flask-project-cart04)
+
+---
+
+### 05 · 📝 Notes API
+
+A focused backend API for CRUD workflows, validation, structured request/response handling and persistent application data.
+
+**Stack:** `Python` `FastAPI` `REST API`
+
+---
+
+### 06 · ✅ Task Manager API
+
+A practical API project for task management, validation, persistence and clean backend endpoint design.
+
+**Stack:** `Python` `FastAPI` `REST API`
+
+---
+
+<div align="center">
+
+<a href="https://github.com/ratneshbuilds03?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Explore all repositories">
+</a>
+
+</div>
 
 ---
 
@@ -125,8 +192,12 @@ A practical backend application for task management, API design, validation and 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="Ratnesh GitHub statistics">
+  <img src="assets/card-stats-dark.svg" width="520" alt="Ratnesh GitHub statistics">
 </picture>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratneshbuilds03&bg_color=0b1020&color=67e8f9&line=a78bfa&point=f472b6&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
 
 </div>
 
@@ -140,25 +211,26 @@ Data                 →  MySQL · MongoDB · Redis
 Infrastructure       →  Docker · GitHub Actions · AWS
 Quality              →  Pytest · validation · clean architecture
 AI                   →  Gemini API · AI-powered backend features
+Next                 →  system design · deployment · cloud-ready architecture
 ```
 
 ## 🎯 Current Direction
 
 **Backend Developer → Software Engineer**
 
-I'm focused on strengthening production-style backend development, system design fundamentals, testing, deployment and cloud-ready architecture.
+I'm strengthening production-style backend development, system design fundamentals, automated testing, deployment and cloud-ready architecture while building real projects instead of only tutorials.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Build Something Useful
+## 🤝 Let's Build Something Useful
 
-[![GitHub](https://img.shields.io/badge/GitHub-ratneshbuilds03-0d1117?style=for-the-badge&logo=github)](https://github.com/ratneshbuilds03)
-[![Email](https://img.shields.io/badge/Email-ratneshmakwana51%40gmail.com-0d1117?style=for-the-badge&logo=gmail)](mailto:ratneshmakwana51@gmail.com)
+<a href="mailto:ratneshmakwana51@gmail.com"><img src="https://img.shields.io/badge/Email-ratneshmakwana51%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="Email Ratnesh"></a>
+<a href="https://github.com/ratneshbuilds03"><img src="https://img.shields.io/badge/GitHub-@ratneshbuilds03-111827?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Ratnesh GitHub"></a>
 
 <br><br>
 
-<sub>Built with Python-generated SVG visuals · Designed for a backend engineer · Keep shipping 🚀</sub>
+<sub>Designed as a living engineering profile · Animated SVG system map · Built for a backend developer 🚀</sub>
 
 </div>
